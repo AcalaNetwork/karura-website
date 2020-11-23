@@ -26,4 +26,5 @@
   letter-spacing: 4px;
   color: #eeeeee;
   text-shadow: 0 0 10px #eeeeee;
+  transform: scaleY(0.5);
 }
